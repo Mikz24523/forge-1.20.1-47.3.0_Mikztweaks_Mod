@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "SBS",
+    "S S",
+    " L "
+  ],
+  "key": {
+    "B": {
+      "item": "mikztweaks:buckle"
+    },
+
+    "S": {
+      "item": "mikztweaks:leatherstrap"
+    },
+
+    "L": {
+      "item": "mikztweaks:lamp"
+    }
+  },
+
+  "result": {
+   "item": "mikztweaks:headlamp",
+    "count": 1
+  }
+}
